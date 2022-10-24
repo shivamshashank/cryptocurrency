@@ -1,6 +1,5 @@
 package com.brighterbee.tech.cryptocurrency.data.remote.dto.coin_details
 
-
 import com.brighterbee.tech.cryptocurrency.domain.model.CoinDetails
 import com.google.gson.annotations.SerializedName
 
